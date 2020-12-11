@@ -2,7 +2,7 @@
   "name": "koleksi_tas",
   "version": "1.0.0",
   "description": "Vincent Marcelino - 535180047\r Gabriela Felicia - 535180057\r Yoshino Dayu - 535180066\r Livienia - 535180068\r Ivan varian - 535180108",
-  "main": "index.js",
+  "main": "Tugas Kelompok1/index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
