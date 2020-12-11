@@ -4,7 +4,7 @@
   "description": "Vincent Marcelino - 535180047\r Gabriela Felicia - 535180057\r Yoshino Dayu - 535180066\r Livienia - 535180068\r Ivan varian - 535180108",
   "main": "Koleksi_Tas-master/Tugas Kelompok1/index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node Koleksi_Tas-master/Tugas Kelompok1/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
