@@ -76,5 +76,5 @@ app.use('/upload', upload);
 app.use('/collect', collect);
 
 let port = process.env.port || 3000;
-app.listen(3000);
+app.listen(port);
 console.log('Server runs at port 3000...');
