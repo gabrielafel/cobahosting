@@ -1,0 +1,1 @@
+web:node "Koleksi_Tas-master/Tugas Kelompok1/index.js"
